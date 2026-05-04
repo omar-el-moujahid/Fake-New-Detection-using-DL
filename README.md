@@ -27,6 +27,9 @@ Three modalities compared:
 - Real/Fake Images Dataset
 - Fakeddit (multimodal, Reddit-based)
 
+# Open README and add this line under ## Architecture:
+# ![Architecture](assets/architecture.png)
+
 ## Tech Stack
 PyTorch · Hugging Face Transformers · scikit-learn · Flask · Docker
 
